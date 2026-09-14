@@ -143,4 +143,9 @@ previous: number of contacts performed before this campaign and for this client 
 poutcome: outcome of the previous marketing campaign(categorical: 'failure','nonexistent','success')
 target: has the client subscribed a term deposit? (binary:"yes","no")
 
-            
+<img width="1527" height="736" alt="overview" src="https://github.com/user-attachments/assets/880d1fc7-0e2a-49b6-b3b3-b4f068f2548e" />
+
+
+
+  <img width="1360" height="661" alt="Screenshot 2026-09-13 214330" src="https://github.com/user-attachments/assets/4f66726c-74a0-40cc-8b4b-0dfaee3cd0fa" />
+   
